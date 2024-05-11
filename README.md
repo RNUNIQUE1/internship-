@@ -1,4 +1,4 @@
-# internship-In this project we are making a wb site with the help of css and html
+# basic html css based web site -In this project we are making a wb site with the help of css and html
 Task 1 - Landing Page
 
 A landing page is one of the best web development projects for beginners. A foundational understanding of HTML and CSS is required. You will learn how to add columns, divide sections, arrange items, add headers, footers. Create an impressive page using your creativity.
